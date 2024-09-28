@@ -1,2 +1,2 @@
-# ACC45DAYSOFCODE-2024
+# first-repository-yash
 This is my first repository.
